@@ -1,59 +1,63 @@
-# Dieny Soares | Desenvolvedora Full Stack & Especialista em Cloud e Cientista de Dados
+# Dieny Soares | Desenvolvedora Full Stack | Cloud, Dados & Machine Learning
 
-Olá! Me chamo Dieny Soares 👋. Sou uma profissional apaixonada por tecnologia, com uma trajetória que transita do desenvolvimento web e nuvem à análise de dados e IA. Minha experiência em empresas como a **Embratel** me proporcionou uma base sólida em liderança técnica, administração de redes e foco na excelência do atendimento (SLA).
+Olá! Me chamo Dieny Soares 👋. Sou uma profissional movida pela paixão de resolver problemas complexos com tecnologia. Minha carreira evoluiu do desenvolvimento web e infraestrutura em nuvem à análise de dados **Data Science e Inteligência Artificial**, combinando o melhor dos dois mundos.
 
-Atualmente, busco ativamente por desafios que me permitam construir soluções inovadoras e de alto impacto. Minha jornada em bootcamps da **Oracle, AWS, Elas na IA, ProgramaMaria, Data Girls** solidificou minhas habilidades em projetos práticos, envolvendo desde IA Generativa e consumo de APIs até o deploy de aplicações em ambientes de nuvem.
+Minha experiência em empresas como a **Embratel** me deu uma visão estratégica sobre operações de larga escala, me proporcionou uma base sólida em liderança técnica, administração de redes e foco na excelência do atendimento (SLA). enquanto os bootcamps da **Oracle, AWS e Elas na IA, ProgramaMaria, Data Girls** me permitiram aprofundar em projetos práticos, construindo desde sistemas web responsivos a **modelos de machine learning interpretáveis**.
 
-Minha experiência é fortalecida por soft skills essenciais como **comunicação, organização, trabalho em equipe, resiliência e iniciativa**, que me permitem adaptar e prosperar em ambientes dinâmicos e desafiadores.
+Busco ativamente desafios que me permitam aplicar minhas habilidades para gerar valor e impacto, sempre guiada pela **comunicação clara, liderança, trabalho em equipe, resiliência e iniciativa**.
 
 ---
 
-## 🛠️ Minhas Stacks & Ferramentas
+## 🛠️ Ecossistema de Tecnologias
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Tenho uma abordagem holística para o desenvolvimento, utilizando um conjunto diversificado de ferramentas para entregar a melhor solução.
 
-| Categoria      | Tecnologias                                                               |
-| -------------- | ------------------------------------------------------------------------- |
-| **Linguagens** | `Python`, `JavaScript`                                                    |
-| **Front-End** | `React`, `HTML5`, `CSS3`, `Design Responsivo`                             |
-| **Cloud & DevOps**| `AWS (S3, Bedrock)`, `Vercel`, `Git`, `GitHub`                            |
-| **Dados & IA** | `Análise de Dados`, `IA Generativa`, `Looker Studio (Google)`             |
-| **Back-End & API**| `API REST`, `JSON Server`                                                 |
+### Data Science & Machine Learning
+* **Análise e Manipulação:** `Pandas`, `NumPy`
+* **Visualização de Dados:** `Matplotlib`, `Seaborn`, `Google Looker Studio`
+* **Machine Learning:** `Scikit-learn`
+* **IA Generativa:** `AWS Bedrock`
+* **Interpretabilidade de Modelos (XAI):** `LIME`, `SHAP`
+
+### Desenvolvimento Web (Front-End)
+* **Linguagens e Estrutura:** `HTML5`, `CSS3`, `JavaScript`, `Python`
+* **Frameworks e Bibliotecas:** `React`
+* **Design:** `Design Responsivo`, `Mobile-First`
+
+### Cloud, Back-End & DevOps
+* **Provedores de Nuvem:** `AWS (S3, Bedrock)`
+* **Servidores e API:** `API REST`, `JSON Server`
+* **CI/CD e Versionamento:** `Git`, `GitHub`, `Vercel`
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### ● AWS Smart IA - Triagem Inteligente de Currículos
-*Uma solução de IA para otimizar o processo de recrutamento.*
-
-Desenvolvi uma aplicação que utiliza Inteligência Artificial para realizar a triagem e análise semântica de currículos enviados em formato PDF. O projeto demonstra habilidades em arquitetura de nuvem e integração de serviços de IA.
-
-- **Backend:** Construído em Python e integrado ao **AWS S3** para armazenamento de arquivos.
-- **Inteligência Artificial:** Utiliza o **AWS Bedrock** para extrair e interpretar as informações-chave dos documentos.
-- **Frontend:** Interface responsiva e funcional (HTML/CSS) para uma excelente experiência do usuário.
-
-**Stack utilizada:** `Python`, `AWS S3`, `AWS Bedrock`, `HTML/CSS`, `API REST`
-
 ### ● Análise de Diversidade e Inclusão
 *Usando dados para promover a transformação social.*
 
-Este projeto, desenvolvido no bootcamp **ProgramaMaria**, foca na análise de dados sobre desigualdades de gênero, etnia, salário e escolaridade. Acredito que os dados têm um poder imenso de promover a equidade, e este trabalho é um reflexo desse ideal.
+Este projeto foca na análise de dados sobre desigualdades de gênero, etnia e salário. O objetivo foi transformar dados brutos em uma narrativa visual poderosa que inspira reflexão e ação, demonstrando todo o ciclo de vida de um projeto de dados, da limpeza à visualização.
 
-- Análise aprofundada de dados sobre diversidade.
-- Criação de um dashboard interativo para visualização dos insights.
-- O ponto alto foi transformar dados brutos em uma narrativa visual que inspira reflexão e ação.
-
-**Stack utilizada:** `Análise de Dados`, `Google Looker Studio`
+**Stack utilizada:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Google Looker Studio`
 
 **📊 [Acesse o Dashboard Interativo](https://lookerstudio.google.com/reporting/fa242056-8d81-4244-8d2a-d58ae3d6fb62)**
+
+### ● AWS Smart IA - Triagem Inteligente de Currículos
+*Uma solução de IA para otimizar o processo de recrutamento.*
+
+Desenvolvi uma aplicação que utiliza Inteligência Artificial para realizar a triagem e análise semântica de currículos em PDF. O projeto demonstra habilidades em arquitetura de nuvem e integração de serviços de IA de ponta.
+
+- **Backend:** Construído em Python e integrado ao **AWS S3**.
+- **Inteligência Artificial:** Utiliza o **AWS Bedrock** para extração semântica.
+- **Frontend:** Interface responsiva e funcional (HTML/CSS).
+
+**Stack utilizada:** `Python`, `AWS S3`, `AWS Bedrock`, `HTML/CSS`, `API REST`
 
 ### ● DienyFlix – Plataforma Educacional de Vídeos
 *Uma aplicação web inspirada nas grandes plataformas de streaming.*
 
-Desenvolvido durante o bootcamp **Oracle ONE (Alura)**, o DienyFlix é uma plataforma responsiva para organizar e exibir vídeos educacionais por categoria, simulando um ambiente de streaming completo.
+Desenvolvido durante o bootcamp **Oracle ONE (Alura)**, o DienyFlix é uma plataforma responsiva para organizar e exibir vídeos por categoria, utilizando as melhores práticas do ecossistema React.
 
-- Aplicação web totalmente responsiva, construída com React.
 - Gerenciamento de estado com Hooks e navegação com React Router.
 - API simulada com JSON Server para uma experiência de desenvolvimento ágil.
 
@@ -64,11 +68,7 @@ Desenvolvido durante o bootcamp **Oracle ONE (Alura)**, o DienyFlix é uma plata
 ### ● Alura Geek – E-commerce Responsivo
 *Um e-commerce funcional com foco em mobile-first.*
 
-Este projeto consiste em um site de vendas completo com funcionalidades de **CRUD** (Criar, Ler, Atualizar, Deletar) para produtos. O layout foi pensado primeiramente para dispositivos móveis, garantindo usabilidade em qualquer tela.
-
-- Implementação de todas as operações de um CRUD via JavaScript.
-- Layout responsivo e adaptável.
-- Funções administrativas para gerenciamento de produtos.
+Este projeto consiste em um site de vendas completo com funcionalidades de **CRUD** (Criar, Ler, Atualizar, Deletar), garantindo uma experiência de usuário fluida em qualquer dispositivo.
 
 **Stack utilizada:** `HTML`, `CSS`, `JavaScript`
 
@@ -78,8 +78,17 @@ Este projeto consiste em um site de vendas completo com funcionalidades de **CRU
 
 ## 📫 Vamos Conversar?
 
-Estou sempre aberta a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia. Vamos nos conectar!
+Estou animada para explorar novas oportunidades, colaborações e desafios. Vamos nos conectar!
 
 * **LinkedIn:** [www.linkedin.com/in/dieny-soares](https://www.linkedin.com/in/dieny-soares)
 
 Obrigada pela sua visita! 😄
+
+
+
+
+
+
+
+
+
