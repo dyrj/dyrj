@@ -1,4 +1,4 @@
-# Dieny Soares | Desenvolvedora Full Stack | Cloud, Dados & Machine Learning
+# Dieny Soares | Desenvolvedora Web | Cloud, Dados & Machine Learning
 
 Olá! Me chamo Dieny Soares 👋. Sou uma profissional movida pela paixão de resolver problemas complexos com tecnologia. Minha carreira evoluiu do desenvolvimento web e infraestrutura em nuvem à análise de dados **Data Science e Inteligência Artificial**, combinando o melhor dos dois mundos.
 
@@ -24,7 +24,7 @@ Tenho uma abordagem holística para o desenvolvimento, utilizando um conjunto di
 * **Frameworks e Bibliotecas:** `React`
 * **Design:** `Design Responsivo`, `Mobile-First`
 
-### Cloud, Back-End & DevOps
+### Cloud & DevOps
 * **Provedores de Nuvem:** `AWS (S3, Bedrock)`
 * **Servidores e API:** `API REST`, `JSON Server`
 * **CI/CD e Versionamento:** `Git`, `GitHub`, `Vercel`
